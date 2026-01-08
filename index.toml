@@ -382,6 +382,11 @@ hash = "9aa575969f8a359ac795b4e8754f3423d189d701088e197a7ace68eeaaaa0276"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "c426cbbd1d8045d98e52cb6f10525d074c1923b32980fd3e9874aa040db723ba"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "9183ad59a5d472e041766c52bdc1126231d4f4db1b47b84eb165b450cd56a3c7"
 metafile = true
@@ -652,13 +657,88 @@ hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "90f96f9e48eea134f5a399b859d4977d6166a1711c917224375ce832b0b9cf53"
+metafile = true
+
+[[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6c275f621e7c3895ed34ee0e5bf847916a4285ac0f6452982ad6dccd5dd59851"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "c3e1837850c9410bd8301583a0771e2ec0fc5f485d3bd74b57a9cf1967c6a0d6"
+metafile = true
+
+[[files]]
+file = "mods/industrialization-overdrive.pw.toml"
+hash = "86acb178c85af64681d0a0b9d1b17707af211bb00d02a2830bf5dde486fdc48d"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "bfdc9d198e69d32ab9bff94fe73a5c7e8d71c93089d602ad77d1f2d3bfb3f352"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "62cd07874e73d82b29ff6fecd5345ce4b1135ce7ff29f3ef695139be33157483"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/just-dire-things.pw.toml"
+hash = "96b303d3ae60fa5fbfcb1a11b8400c1b455d20362b56f3bc08c6bbb263bb06c8"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "74021b36457eb31ff79c6dd0974b1d624c15fec5416833273b4f7a621946270f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "3e22ed38fd860e638308255d4a3f5eb24b3d22df1fabb9374ed6daa633abde79"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
 metafile = true
 
 [[files]]
@@ -684,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "bcb51b425d38237c8e61cdb544d56900f621c757d25bec62c221586923b3e445"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
 metafile = true
 
 [[files]]
@@ -814,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract-api-neoforge.pw.toml"
 hash = "7d597ae4aff92f0562c36e5eb475f74363077d35701b5739a9cb59c2a11fcebf"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
 metafile = true
 
 [[files]]
