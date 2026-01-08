@@ -117,6 +117,31 @@ hash = "47e982738ecdc8aa7cd263bc6f2f6567713b04d119bb9fdbefae3586f53e7dac"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ed544632f7925bd625ac4297ae797be46a2ae0fcaad9eecf893cd78093eda4d0"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "70485963c2406b4333aa5bb6c64198422199860c8717497983f3970527efcec8"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "f60f9dc2625ae85e731fc510887fd509c117d5f588047d116eedbe37f431b7a1"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -222,6 +247,11 @@ hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "d8e50f6f8d06a69381f1435d7d4bbf218e7896d8325bcf2bcd62f295714a0591"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d720ecbf6097102b3243462928c0453f1b4df24a6a0edfa57b83d655fdb2ef75"
 metafile = true
@@ -229,6 +259,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
