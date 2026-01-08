@@ -192,8 +192,33 @@ hash = "f3af3608664ed257e10bad02ece79dfb308a7fa9f1992e03f58d2c64e93cebed"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "91b81c2bf3b64e458a1fd5100c574244428424da770835f9f4dc3349ab18997b"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "30ffe79b0347aa0c24e2c6ad917457f1ccae75423b96c8d30c7c8c372fb90cc5"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "ede2c44ea1dfa4af9535734a971f12170c6c2e4f7e8de7e82e920b9ab590dab3"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "247b89bfd31a4e189181596a0a0ab8a7862a5ec9cb648c0cc2457a6ff61e94d8"
 metafile = true
 
 [[files]]
@@ -202,8 +227,13 @@ hash = "03ed171e9783a6a2f7d7543951476d23829e7e9c226318dbb006a4b4c2fb7a29"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -259,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "415ae259d7d6c92717710d6f80494d9f3c0884c6a2a35f993ad31e287f64632f"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -357,6 +392,11 @@ hash = "bb53e2c30a71e477476f8964b9a8c5294207969659c755b5c9993bca94139385"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
@@ -369,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "63aea16cbf3e00874a05889f1553f3ef4640b04d10c370bba78eb2377f4fbf07"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
