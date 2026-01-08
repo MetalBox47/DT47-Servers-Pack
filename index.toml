@@ -467,6 +467,11 @@ hash = "43055bc50bd47d3cf0f3330c50cb4b91ee50a5127555e0e7c6ef932f42fc800c"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
@@ -527,6 +532,26 @@ hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "cbdc69a1935afa555f3afb930ed515860f0eeac4c459badb7ba3586f409eb696"
+metafile = true
+
+[[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "abc5b5bc3f2dfff455009a0a760f520fac4944a8c5d76719ed098cb16e243973"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "f41f508ddfb51ddd09e2f2984f06675fc7bf751d52e65bb5f3cd0b97c15cae2f"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "f0eb56417b0e2594af6bc6edd9bbdaea7038a18040bca259e8ccfa40b2b9d269"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
 hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
 metafile = true
@@ -554,6 +579,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "1781b20756b9c2b0bd930e18bbe7cd8c66d822018d95d74b5ffbbfac19aa94ff"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "de12d66aca2d481ce0ffe4d47d37afb5ecb0c5444ffe7dc86a79dc9ce159dc92"
 metafile = true
 
 [[files]]
@@ -604,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
 metafile = true
 
 [[files]]
@@ -664,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "0b6283bf88b8f798529d0044372f3d668edf9b58a3becb9bcd7b095ea4c11839"
 metafile = true
 
 [[files]]
@@ -728,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "8379747fafa54270c5565e0e243ca14e0f9ad1a6636fde0abac7db8a9d0deca1"
+hash = "2615ce20109fe11c8673991a1eb2cdfea463cd38926c067a8b9088eee7a8607d"
 metafile = true
 
 [[files]]
@@ -767,8 +812,18 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tesseract-api-neoforge.pw.toml"
+hash = "7d597ae4aff92f0562c36e5eb475f74363077d35701b5739a9cb59c2a11fcebf"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
 metafile = true
 
 [[files]]
