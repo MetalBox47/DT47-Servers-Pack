@@ -167,6 +167,11 @@ hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
+file = "mods/applied-pneumatics.pw.toml"
+hash = "13d6f96653c38c5f754737a7d9b906ed88f70b02d5ab0dff59873a6fb1d18af0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -599,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
+metafile = true
+
+[[files]]
+file = "mods/fast-pipes.pw.toml"
+hash = "a5dc3dd5c4c7c012415393d2e0d55f05bf85a5d68f0b500da37b1184aabd98fa"
 metafile = true
 
 [[files]]
@@ -1072,8 +1082,28 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "b8edf401a05f1b68dc3a6e9e0604ebb7113084ce70725c085778d807a978ebe1"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "bb53e2c30a71e477476f8964b9a8c5294207969659c755b5c9993bca94139385"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "c5d78f1b021791d8938ad1969cb80c5ea99cac03d6ceb4c51df151872de30277"
 metafile = true
 
 [[files]]
@@ -1082,8 +1112,28 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "dd5aad569fb25abbead8793db184a0dfe928b1b66976a2b85e7cd1847677b5b3"
+metafile = true
+
+[[files]]
+file = "mods/psi.pw.toml"
+hash = "7c4304563ed050650ce174aaaa6e83014a10e4fc910ceeaeae6171f27220454a"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "2615ce20109fe11c8673991a1eb2cdfea463cd38926c067a8b9088eee7a8607d"
+metafile = true
+
+[[files]]
+file = "mods/refined-types.pw.toml"
+hash = "062a8d8a7bfe1562c7e95af1913a113b8126fd72d99e509d173c15f6c460f7c2"
 metafile = true
 
 [[files]]

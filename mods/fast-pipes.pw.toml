@@ -1,0 +1,13 @@
+name = "Fast Pipes"
+filename = "fastpipes-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vLNEmWij/versions/JShHkcbX/fastpipes-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "adedf6f1f72e8d649fa26d351ff11568fef8a9eb9a5e0040287588076599fe3e377dc63d21f9e88a07a1a44193e16e7849baf727566908966265328fa8c61f4c"
+
+[update]
+[update.modrinth]
+mod-id = "vLNEmWij"
+version = "JShHkcbX"

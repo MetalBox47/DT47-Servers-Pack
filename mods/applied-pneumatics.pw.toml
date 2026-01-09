@@ -1,0 +1,13 @@
+name = "Applied Pneumatics"
+filename = "appliedpneumatics-1.0.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tca1XWFk/versions/j7tmgbnf/appliedpneumatics-1.0.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "574a07efcdb126f9f89e1c18ef20e375da3415b5c0bb4963dcbbebcd0a3088ab75f874757af1928bb9b81017be3c370790d4f89cf707e6827de00cf2d4459f09"
+
+[update]
+[update.modrinth]
+mod-id = "tca1XWFk"
+version = "j7tmgbnf"

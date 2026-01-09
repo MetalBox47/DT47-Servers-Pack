@@ -1,0 +1,13 @@
+name = "PneumaticCraft: Repressurized"
+filename = "pneumaticcraft-repressurized-8.2.15+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/ZAVbKVFX/pneumaticcraft-repressurized-8.2.15%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "477ce23daeafa8d885432d38abd7623d9f67fa4464b1d5b7ff8fcbeff25688949bf4024f615cac91b6d21f6986b5fefe0f356b7a5a1aacc1ec1952d341d7e21f"
+
+[update]
+[update.modrinth]
+mod-id = "ncAcdgk7"
+version = "ZAVbKVFX"
