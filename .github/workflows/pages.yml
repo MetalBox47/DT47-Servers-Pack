@@ -29,6 +29,10 @@ jobs:
         run: |
           mkdir -p site
           cp pack.toml site/pack.toml
+          cp index.toml site/index.toml
+          cp options.txt site/options.txt
+          cp -r mods site/mods
+          cp -r config site/config
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
