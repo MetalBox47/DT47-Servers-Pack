@@ -33,9 +33,7 @@ jobs:
           cp -r config site/config
 
       - name: Refresh packwiz index
-        run: |
-          cd site
-          ./packwiz refresh
+        run: site/packwiz refresh
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
