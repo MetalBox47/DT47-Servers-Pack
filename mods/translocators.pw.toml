@@ -1,0 +1,13 @@
+name = "Translocators"
+filename = "Translocators-1.21.1-2.8.0.88.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WIxTuRkQ/versions/RK1vpN1P/Translocators-1.21.1-2.8.0.88.jar"
+hash-format = "sha512"
+hash = "5b8674f1007290d40927a68b15c41949c08271d4aaeff72e84818347407e0e58277662176ff71ac5ad5c40d9ced6f8e8553c4b8e62e4de02b1f02183c87f1b9a"
+
+[update]
+[update.modrinth]
+mod-id = "WIxTuRkQ"
+version = "RK1vpN1P"

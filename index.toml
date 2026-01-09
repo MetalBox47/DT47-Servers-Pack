@@ -277,6 +277,11 @@ hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "c09e2c7df60d3d247a443a8b788d1fc55278246e3e1e151b5a27e31b01ee0dbc"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
 metafile = true
@@ -1232,13 +1237,48 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "adc69a30b7ddf030a78f5b7994b6ded381626bc03de5a74566a7e24c98ebf139"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "63f25e4206eb8b5b77ca79a443941b31ef5085783fdf1af8255e8406bb7bba38"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "579f3e14189fccf73e931abe4a00344b9aa1b130a069542c6b90e4906b4d91ae"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "a4e86a4148175abab9c98b466d2148d860f957ed106c0ec3da7cb361fbecce16"
+metafile = true
+
+[[files]]
+file = "mods/stylecolonies.pw.toml"
+hash = "81e3343a5a1997113f396049ef2b67f0cf3a5390d8dbe117547c44425c5993e0"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "28b2c40b93bb5d9c5ace237191177258a6dbe890cea2e7aa56c5324c65169f6d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "84a52ce6e4caafe5fb34246ff180f5c787a74faf0ff8f77e76d3e3258b96291c"
 metafile = true
 
 [[files]]
@@ -1257,6 +1297,16 @@ hash = "7d597ae4aff92f0562c36e5eb475f74363077d35701b5739a9cb59c2a11fcebf"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "b2dd43f9809966eaed8ece9f72ec9ca4f35e8b1d5fd04cb7aa54d847ac9dab91"
+metafile = true
+
+[[files]]
+file = "mods/time-in-a-bottle-universal.pw.toml"
+hash = "6e1303bbcbe38e442a3fade6d2243902ca944bf71129080dac7b3071ea40f197"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
 metafile = true
@@ -1267,8 +1317,18 @@ hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
+metafile = true
+
+[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/translocators.pw.toml"
+hash = "39ff8062573678d12a38364548cc51a002a203b5b82c3950f025e0290171198a"
 metafile = true
 
 [[files]]
