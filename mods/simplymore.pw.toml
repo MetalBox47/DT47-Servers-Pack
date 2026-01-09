@@ -1,0 +1,13 @@
+name = "Simply More"
+filename = "simplymore-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zhpyD8Y0/versions/kNdiabaU/simplymore-neoforge-1.2.1.jar"
+hash-format = "sha512"
+hash = "1c6b0fee2ee4e4b3ceea729ab4861373addfdd44586e8afa2eb413c335acf7f41bbf3a4eb200c77fedbeef03620a217d0dd615e6967e3eba793667c4e1a5f516"
+
+[update]
+[update.modrinth]
+mod-id = "zhpyD8Y0"
+version = "kNdiabaU"

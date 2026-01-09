@@ -902,6 +902,11 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "cd21ae3295cab57eca79bfee703220394c6f4bd82c76d419a8ced53f3968cded"
+metafile = true
+
+[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
@@ -1014,6 +1019,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
 metafile = true
 
 [[files]]
@@ -1137,13 +1147,73 @@ hash = "062a8d8a7bfe1562c7e95af1913a113b8126fd72d99e509d173c15f6c460f7c2"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "36167ef5d4a70d710ca23313ade43f6116969929fcfa8e63c81a4bb9d15e1a5e"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "457f7fdf4bea46a68c6eaf131c42c7ad6d9755ac361f0de016a80473ad7c3576"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "9431c7ba50753e7c340b62d7fbf4a8d18f3cf355d446155731ec30baeed918c7"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "2b22feda18ec00010e7a9493577e3c6a1d118d3b0885546b39f6ce5284f4ec11"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "3f4992fb9b78326317a457db01a0594b4374947a9b5f41923b42cf8cc45763da"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "cda35451a7ecb03ac10b946e33ca7f95955431752b16e3802ed2e76254c194ec"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "5906be86a368d3d0964c377dfcf22f254c8d623dac14cc3afd292f43a1390738"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "963d301eb3dee9507fd7cd91647224600a9fbf4ec690256ebf57aa9756ae750e"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "52415e411ba4ed42b012ba7b5ea23adf59ecbd9ef46fa20ad93dcde3c1f4fe1e"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "af36cf0aa85c590f2f5720da468484ed1f7197c5f00391eff41e757b93b05bc5"
+metafile = true
+
+[[files]]
+file = "mods/simplycataclysm.pw.toml"
+hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "ca082a7ead4bf19960f4ff9505221b2e84176a58b7de1347891b5ed8f76ea55d"
 metafile = true
 
 [[files]]

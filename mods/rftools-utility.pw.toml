@@ -1,0 +1,13 @@
+name = "RFTools Utility"
+filename = "rftoolsutility-1.21-7.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7n3HbHSE/versions/NQUkmddy/rftoolsutility-1.21-7.0.10.jar"
+hash-format = "sha512"
+hash = "0ba80f3f38177c53cdec2e1f1749b9b189a05910cce2e46f4bf26a0f82c5f3950ca4dc1696a52ff61567de379cede28aaa13db80eb1c61d1abd07b0ddd62d3bd"
+
+[update]
+[update.modrinth]
+mod-id = "7n3HbHSE"
+version = "NQUkmddy"
