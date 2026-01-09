@@ -31,6 +31,7 @@ jobs:
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
+          cp LICENSE site/LICENSE
           cp -r mods site/mods
           cp -r config site/config
 
