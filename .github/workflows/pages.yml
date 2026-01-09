@@ -26,7 +26,9 @@ jobs:
           file packwiz
 
       - name: Refresh packwiz index
-        run: ./packwiz refresh
+        run: |
+          ls -l
+          ./packwiz refresh
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
