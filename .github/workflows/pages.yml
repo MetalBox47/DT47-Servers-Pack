@@ -23,7 +23,12 @@ jobs:
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: |
+            pack.toml
+            index.toml
+            mods
+            config
+            options.txt
   
   deploy:
     needs: build
