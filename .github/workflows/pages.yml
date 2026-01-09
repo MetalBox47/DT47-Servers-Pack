@@ -4,13 +4,18 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    outputs:
+      artifact-name: site
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Install packwiz
         run: |
           curl -L "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" -o packwiz.zip
@@ -20,17 +25,19 @@ jobs:
       - name: Refresh packwiz index
         run: ./packwiz refresh
 
+      - name: Prepare site folder
+        run: |
+          mkdir -p site
+          cp pack.toml site/pack.toml
+
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: pack.toml
-  
+          path: site
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
     environment:
       name: github-pages
     steps:
