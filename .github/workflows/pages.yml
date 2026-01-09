@@ -22,17 +22,21 @@ jobs:
           unzip packwiz.zip
           chmod +x packwiz
 
-      - name: Refresh packwiz index
-        run: ./packwiz refresh
-
       - name: Prepare site folder
         run: |
           mkdir -p site
+          mv packwiz site
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
+          cp LICENSE site/LICENSE
           cp -r mods site/mods
           cp -r config site/config
+
+      - name: Refresh packwiz index
+        run: |
+          cd site
+          ./packwiz refresh
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
