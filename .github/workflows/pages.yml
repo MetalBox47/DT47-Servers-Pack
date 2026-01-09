@@ -14,7 +14,9 @@ jobs:
       - name: Install packwiz
         run: |
           curl -L "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" -o packwiz.zip
-          unzip packwiz.zip
+          unzip packwiz.zip -d packwiz_extracted
+          ls -l packwiz_extracted
+          mv packwiz_extracted/packwiz packwiz
           chmod +x packwiz
           sudo mv packwiz /usr/local/bin/packwiz
 
