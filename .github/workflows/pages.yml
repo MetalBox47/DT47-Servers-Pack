@@ -18,6 +18,11 @@ jobs:
           chmod +x packwiz
           sudo mv packwiz /usr/local/bin/packwiz
 
+      - name: Inspect packwiz binary
+        run: |
+          ls -l
+          file packwiz
+
       - name: Refresh packwiz index
         run: ./packwiz refresh
 
