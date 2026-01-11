@@ -557,6 +557,11 @@ hash = "bb3972a97a3915f202ce571fc7b943b2055119a0d70404424505e4dbc811958c"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "0659a022d4f0fdc8cf69b59819a0efc4e529113f5b6097db1875ba13189f3a92"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
