@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pages.yml"
+hash = "c54f39b63f1b1c49bb16234663c6d3ecf944274029405afd2d19b8d4f6f42db0"
+
+[[files]]
 file = "LICENSE"
 hash = "a0ee746064b06d09cab0768116ec265fd0d45261d4087c9ad2c698a07c7aac0e"
 
@@ -562,6 +566,21 @@ hash = "0659a022d4f0fdc8cf69b59819a0efc4e529113f5b6097db1875ba13189f3a92"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight-addon-eternal-glow.pw.toml"
+hash = "d7d6e6942266460d0a8371c53d357ecdc9e194b6f6761fafc51aaf8b2cf98192"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight-vo.pw.toml"
+hash = "60172b12454b3f20bdd447be3dfe86c96a4993583b2580236a3445b420bf9518"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "2084bb2a248fe177e55ef319e122883a8a1c61f31f385f3296320b788ae59e99"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
@@ -599,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
 hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-eternal-starlight.pw.toml"
+hash = "078b06b004ea871a3582539cd6d1127f073e7177468e9cf4ffa92426c82eb248"
 metafile = true
 
 [[files]]
@@ -1307,8 +1331,18 @@ hash = "7d597ae4aff92f0562c36e5eb475f74363077d35701b5739a9cb59c2a11fcebf"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "3a6bf430977f1b6e46354d0761606956cfcf1f79f7dd55e67edb57bedfee8df0"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "b2dd43f9809966eaed8ece9f72ec9ca4f35e8b1d5fd04cb7aa54d847ac9dab91"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
 metafile = true
 
 [[files]]

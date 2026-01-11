@@ -1,0 +1,13 @@
+name = "Eternal Starlight Addon: Eternal Glow"
+filename = "eternal_glow-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rS0HL0pw/versions/v0l1ScNt/eternal_glow-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c513962b208bd9a7e5b2fa1e77bb4a77511e0f764225273ba17f55df0842604d2882353c6c171bc08d38143c60478b4e6706ce409fe68769cd33f4b35087b314"
+
+[update]
+[update.modrinth]
+mod-id = "rS0HL0pw"
+version = "v0l1ScNt"
