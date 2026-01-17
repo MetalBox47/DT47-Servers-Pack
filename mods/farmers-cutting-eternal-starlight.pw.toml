@@ -1,13 +1,13 @@
 name = "Farmer's Cutting: Eternal Starlight"
-filename = "farmers-cutting-eternal-starlight-1.21.1-2.0-neoforge.jar"
+filename = "farmers-cutting-eternal-starlight-1.21.1-2.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PuIiD6eS/versions/1foJPB5Z/farmers-cutting-eternal-starlight-1.21.1-2.0-neoforge.jar"
+url = "https://cdn.modrinth.com/data/PuIiD6eS/versions/rWs6fRQa/farmers-cutting-eternal-starlight-1.21.1-2.1-neoforge.jar"
 hash-format = "sha512"
-hash = "d3f6fd7f91c4c0e44ca90dc759618bcffa2b30ec6211407038a434778d76fafc5cdf53fc3a1ee89bfecd62cbcbd2b6a8611aec722beb32e4b0a2da829b738113"
+hash = "d17c8d9aa71c63a7d307087ca59cda0117ddcb4fa7a048910948cdb7969b355b1d657c2723d263fa754c3b46663b757f9f0f5dc5d9f7d1db38e79f8895007ab2"
 
 [update]
 [update.modrinth]
 mod-id = "PuIiD6eS"
-version = "1foJPB5Z"
+version = "rWs6fRQa"

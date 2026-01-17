@@ -1,13 +1,13 @@
 name = "Just Dire Things"
-filename = "justdirethings-1.5.6.jar"
+filename = "justdirethings-1.5.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b46c0aead130ebfaea9c09d82ffc2c5d1471ee5c"
+hash = "f0327d7d2f389020063849200a4128ac9dcb52da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7435369
+file-id = 7463040
 project-id = 1002348
