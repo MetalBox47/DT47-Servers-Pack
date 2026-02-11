@@ -1,13 +1,13 @@
 name = "Applied Pneumatics"
-filename = "appliedpneumatics-1.0.6-1.21.1.jar"
+filename = "appliedpneumatics-1.21.1-neoforge-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tca1XWFk/versions/j7tmgbnf/appliedpneumatics-1.0.6-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tca1XWFk/versions/b7zFVRR4/appliedpneumatics-1.21.1-neoforge-1.0.7.jar"
 hash-format = "sha512"
-hash = "574a07efcdb126f9f89e1c18ef20e375da3415b5c0bb4963dcbbebcd0a3088ab75f874757af1928bb9b81017be3c370790d4f89cf707e6827de00cf2d4459f09"
+hash = "8b0674805518b8e17163dc126d6b41245d53ac5232ee59ca51ce03606dc9fca948ee19cef38290104b0c00317a7d3de5af9598306245558b9f8db94727ec73b5"
 
 [update]
 [update.modrinth]
 mod-id = "tca1XWFk"
-version = "j7tmgbnf"
+version = "b7zFVRR4"

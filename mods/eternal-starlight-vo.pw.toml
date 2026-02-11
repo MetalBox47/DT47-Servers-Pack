@@ -1,13 +1,13 @@
 name = "Eternal Starlight Vanilla Ores"
-filename = "eternalstarlight-vo-neoforge-2.0.0.jar"
+filename = "eternalstarlight-vo-neoforge-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vlMtLQ1s/versions/xD44LktA/eternalstarlight-vo-neoforge-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/vlMtLQ1s/versions/LVWRcIWy/eternalstarlight-vo-neoforge-2.1.0.jar"
 hash-format = "sha512"
-hash = "c2e6e8f43ed974a8675f166af2f7befbfa3b4fc589d8b8ccc554cd60558bc8bcec128be202a74e0696f50b7c4d1a556967f1b05e70edaac2d749011c36d47a41"
+hash = "52e72897149c84fb8320ee94c9788ad3fb191152a767907fb64883dad52c09d37eb7e8c230c33a236a5e9b603c76701747544d799b75e99cdec0956b07c79eef"
 
 [update]
 [update.modrinth]
 mod-id = "vlMtLQ1s"
-version = "xD44LktA"
+version = "LVWRcIWy"
