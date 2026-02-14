@@ -81,6 +81,11 @@ file = "config/trender.json"
 hash = "59086d6236b1d9364abda6e42b69ae8d782d90995a52db2b00eac5fe1293a828"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "a2c21cf6eca5270d8eed45a5aa6eccd54aba4372616b4fdba7b3d7ffd3f67896"
 metafile = true
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "b21236df822bf308e7e4545acb87f8fcdc7089c27437b73ccf0249ec3841c1ef"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -1446,6 +1456,11 @@ hash = "05a3671952e807934b0ff6a046ad6d2e292240b0d5bab5a3df1647f1ac1da419"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "20691a0ee0604a7f5257aa0932e572b9be24a3efc180f57945df51227bef7265"
 metafile = true
@@ -1456,8 +1471,18 @@ hash = "454f20e9dd3dec0410e06a1da6b0baceb781f62bb5ddecb5a4889d6e310b0fe0"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "9f159ae4b4afbcb7e9ac53035fc4c11ec3d622e31e089ff44cfc836ab763cce6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
