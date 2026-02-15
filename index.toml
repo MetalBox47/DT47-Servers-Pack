@@ -816,6 +816,11 @@ hash = "86acb178c85af64681d0a0b9d1b17707af211bb00d02a2830bf5dde486fdc48d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "74290a70d2b4c7d055161808cbad7f7b865a6abe1f2b84ae441f41b587f8ff3a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -913,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "74c618d13df9f38569349b50ccb0bf16cecba5d76f7ab71bde98c45b8980bd0f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "2627fca9a81dbb6ac836f59b0d24ca1898a18a997db4a3e0190f8a830d15cab8"
 metafile = true
 
 [[files]]

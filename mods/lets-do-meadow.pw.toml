@@ -1,0 +1,13 @@
+name = "[Let's Do] Meadow"
+filename = "letsdo-meadow-neoforge-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/9FAmCaXE/letsdo-meadow-neoforge-1.4.6.jar"
+hash-format = "sha512"
+hash = "1b2288e75ed1d16e2680358f4df90ceb8191ee77d2bc3793c8b241b21606c6b1eb955507985ffaa67b785d4c5cede77366640ed29eaee01fa5dfa370a270cb07"
+
+[update]
+[update.modrinth]
+mod-id = "ra7o6Sl7"
+version = "9FAmCaXE"
