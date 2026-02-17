@@ -1,13 +1,13 @@
 name = "Colossal Chests"
-filename = "colossalchests-1.21.1-neoforge-1.8.14-203.jar"
+filename = "colossalchests-1.21.1-neoforge-1.8.14-214.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0a7bde24c55363723e95f47bd0d0ede25bbcce29"
+hash = "cfbd02e7f06725324690a6e34f77ac22690b28ea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7339590
+file-id = 7630070
 project-id = 237875
