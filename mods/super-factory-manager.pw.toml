@@ -1,13 +1,13 @@
 name = "Super Factory Manager"
-filename = "Super Factory Manager (SFM)-MC1.21.1-4.28.0.jar"
+filename = "Super Factory Manager (SFM)-MC1.21.1-4.29.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aecUorJQ/versions/gzkYuew2/Super%20Factory%20Manager%20%28SFM%29-MC1.21.1-4.28.0.jar"
+url = "https://cdn.modrinth.com/data/aecUorJQ/versions/lw2n7647/Super%20Factory%20Manager%20%28SFM%29-MC1.21.1-4.29.0.jar"
 hash-format = "sha512"
-hash = "04df79a13c533d66a406806de6145679dc28a4a7e00d2bb449168ed370449a92658e65fdec5fe075976c8503f5891f117250ddb07821559b02ddf95c4d0c0697"
+hash = "7636fe6957d04e140eb4abe72ba1ed4a79c7da1309f3466627b391ba9f2479fd7215886036fe7de1eb33ea5fef73ab935d4eacc967154d38feb01f743fcd7a9c"
 
 [update]
 [update.modrinth]
 mod-id = "aecUorJQ"
-version = "gzkYuew2"
+version = "lw2n7647"

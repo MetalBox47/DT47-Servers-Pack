@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "bba3e1c52fc512da5f11201dc71bd128f6d10e5dbe2eeab62e4b549ba7d9404a"
+hash = "cce2255677d9118e5cccdee31abe6f045ab18a3f0a9d329b77a687dace6997c8"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f5e87344bdb7c6fbf1997e4284e50e6137197c9386e89e75328f5dca06a1b1ad"
+hash = "3a62e8052045705178b796a93c8378e51a96f5a9e128e790fa61edec51648dcf"
 metafile = true
 
 [[files]]
@@ -1138,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
 metafile = true
 
 [[files]]
@@ -1377,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "765832eca01cad73acbfac6ed74cb0169cc14ca6c9e7c9b5396cd2d7bdaa547c"
+hash = "a0d7a9c8a31112c503c66e8ecf3f4d59a34de8278ff6a664bc13285a79eba54f"
 metafile = true
 
 [[files]]
@@ -1387,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "16877075dea15e77a180907b82c69500cf9ce5e9e64f9fde89f3163fcaf47e86"
+hash = "94d918097e4d76c4f6693e4675c0a386069773f862a22f9b302a075ff1063ebb"
 metafile = true
 
 [[files]]
@@ -1407,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "3d507c49050e029b15cd290850ace8a28ce55c282669968b11ac31ff6071180d"
+hash = "148100851b519d116642de8514baeaabd196838bde078c7431faf0e739f1c4ab"
 metafile = true
 
 [[files]]
@@ -1417,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
-hash = "28b2c40b93bb5d9c5ace237191177258a6dbe890cea2e7aa56c5324c65169f6d"
+hash = "4062631eb5526843f6bcdf30cff076eefae78bd61c879c2fb8b601607e628b27"
 metafile = true
 
 [[files]]
@@ -1497,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "63ac7bf3b3599b671fae69e0ad7176610e592cc013c8b3fafbc4af10e9c66df0"
+hash = "90636b75638eaa7102b6d6098299ea500887a708130df081ba5aa9c7ba5d8927"
 metafile = true
 
 [[files]]
