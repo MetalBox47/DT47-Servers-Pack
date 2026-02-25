@@ -1,13 +1,13 @@
 name = "Extended Industrialization"
-filename = "extended-industrialization-1.15.29-1.21.1.jar"
+filename = "extended-industrialization-1.15.30-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a636ef9448c0cee7446cdd8986500b745ef91ea8"
+hash = "3d939643608fe1642f9014b39abf9d4e1df51fc5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7615586
+file-id = 7654994
 project-id = 1068418

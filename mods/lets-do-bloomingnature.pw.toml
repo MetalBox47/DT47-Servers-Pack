@@ -3,11 +3,11 @@ filename = "letsdo-bloomingnature-neoforge-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4Vno77MY/versions/p2utxUjw/letsdo-bloomingnature-neoforge-1.1.7.jar"
+url = "https://cdn.modrinth.com/data/4Vno77MY/versions/DONqyrq8/letsdo-bloomingnature-neoforge-1.1.7.jar"
 hash-format = "sha512"
-hash = "f7e73542e892c356c463163a5a4591e1523218cb1075a1e95212302c29bcd38bd815c0fa20e8ceaf3340759010c35315d88ee3808acb231306d989186bfe602a"
+hash = "5f23bff96f7d2f8b12014d3a091d08eb5bfae8e1893f1adf01a6d9d4440ab1079a134581d6a98aaf33c68ea7e698c8223bc54f9755820d6d53b10ca59d5d7d38"
 
 [update]
 [update.modrinth]
 mod-id = "4Vno77MY"
-version = "p2utxUjw"
+version = "DONqyrq8"
