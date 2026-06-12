@@ -1,13 +1,13 @@
 name = "Akashic Tome"
-filename = "AkashicTome-1.8-29.jar"
+filename = "AkashicTome-1.8-30.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JBthPdnp/versions/iezuV4Rx/AkashicTome-1.8-29.jar"
+url = "https://cdn.modrinth.com/data/JBthPdnp/versions/MRro5nPG/AkashicTome-1.8-30.jar"
 hash-format = "sha512"
-hash = "59eb5167bd671aaeb0c5aba0434b06d597254109b345876bedb0a06d24dd064bfb0ca4102e040b82d3b2f7f04fdbddcbc68cd51ff2310b89d9ad50f96ac242d7"
+hash = "c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476f5daaeec42a3146a8d94fe96f1d57f1a4e37dcd18357e4d752b1a194bb"
 
 [update]
 [update.modrinth]
 mod-id = "JBthPdnp"
-version = "iezuV4Rx"
+version = "MRro5nPG"

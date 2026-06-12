@@ -1,13 +1,13 @@
 name = "Simply More"
-filename = "simplymore-neoforge-1.2.1.jar"
+filename = "simplymore-forge-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zhpyD8Y0/versions/kNdiabaU/simplymore-neoforge-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/zhpyD8Y0/versions/bVBS14OK/simplymore-forge-1.2.3.jar"
 hash-format = "sha512"
-hash = "1c6b0fee2ee4e4b3ceea729ab4861373addfdd44586e8afa2eb413c335acf7f41bbf3a4eb200c77fedbeef03620a217d0dd615e6967e3eba793667c4e1a5f516"
+hash = "6c06d288c8c2eb183ccbf6298b68460f07dd94a5ef3b4850e5ed674b546a28cea85928e2913a4007ea43d52c3cc8faf936b8c7210fce594c77b5d7b0081f23eb"
 
 [update]
 [update.modrinth]
 mod-id = "zhpyD8Y0"
-version = "kNdiabaU"
+version = "bVBS14OK"

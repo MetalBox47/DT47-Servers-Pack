@@ -1,13 +1,13 @@
 name = "Fast Pipes"
-filename = "fastpipes-1.21.1-1.0.1.jar"
+filename = "fastpipes-1.21.1-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vLNEmWij/versions/6HkFgK1G/fastpipes-1.21.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/vLNEmWij/versions/t57mkvfG/fastpipes-1.21.1-1.3.3.jar"
 hash-format = "sha512"
-hash = "cb3e3161368d3d6a6c4c86996dd646112c5c3220bd643d274155969c4705a786689900e0627e24dc5f2db8152b3d12813a94cd3cc9f177affb6674927b59788c"
+hash = "a8c5d6266e51b273ce36a9aeac43137783de606928e66bb1ce6c1fae019011632fb98a598f58dc8a8202427887ba6841be3054f5dac77add9ca4d626c33e4407"
 
 [update]
 [update.modrinth]
 mod-id = "vLNEmWij"
-version = "6HkFgK1G"
+version = "t57mkvfG"
