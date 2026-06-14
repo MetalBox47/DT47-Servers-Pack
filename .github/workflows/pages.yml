@@ -27,7 +27,7 @@ jobs:
         run:
           mkdir -p "$GOBIN"
           go install github.com/packwiz/packwiz@latest
-          echo "${GOIBN}" >> $GITHUB_PATH
+          echo "${GOBIN}" >> $GITHUB_PATH
 
       - name: Prepare site folder
         run: |
