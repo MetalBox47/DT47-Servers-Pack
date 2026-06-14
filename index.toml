@@ -231,6 +231,11 @@ hash = "2b75c579e6dec00700a1a8407769020370b9ba11d52bacd0ea893d564d91b965"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
 metafile = true
@@ -1102,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7cf42d1cf3f7e27121d6c8fe1a5b66f7ae20b282e52a29ec63b1d43f88267d1c"
+hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
 metafile = true
 
 [[files]]
@@ -1237,7 +1242,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
