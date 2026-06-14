@@ -27,8 +27,9 @@ jobs:
 
       - name: Prepare site folder
         run: |
+          goEnv = $(go env GOENV)
           mkdir -p site
-          mv bin/packwiz site/packwiz
+          mv $goEnv/bin/packwiz site/packwiz
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
