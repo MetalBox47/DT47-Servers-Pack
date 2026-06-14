@@ -21,24 +21,61 @@ jobs:
         with:
           go-version: stable
 
-      - name: Install packwiz from source
+      - name: Install packwiz (robust)
         env:
           GOBIN: ${{ github.workspace }}/bin
-        run:
+          GOPROXY: https://proxy.golang.org
+        run: |
+          set -euo pipefail
+
+          echo "GOBIN=${GOBIN}"
           mkdir -p "$GOBIN"
-          go install github.com/packwiz/packwiz@latest
-          echo "${GOBIN}" >> $GITHUB_PATH
+
+          # Prefer installing the CLI package directly
+          echo "Trying go install github.com/packwiz/packwiz/cmd/packwiz@latest"
+          if GOBIN="$GOBIN" go install github.com/packwiz/packwiz/cmd/packwiz@latest; then
+            echo "go install succeeded"
+          else
+            echo "go install failed; falling back to git clone + go build"
+            rm -rf packwiz-src
+            git clone --depth 1 https://github.com/packwiz/packwiz.git packwiz-src
+            cd packwiz-src
+            go build -o "$GOBIN/packwiz" ./cmd/packwiz
+            cd ..
+          fi
+
+          echo "Contents of $GOBIN:"
+          ls -la "$GOBIN" || true
+          echo "Contents of GOPATH/bin:"
+          ls -la "$(go env GOPATH)/bin" || true
+
+          if [ ! -x "$GOBIN/packwiz" ]; then
+            echo "ERROR: packwiz binary not found in $GOBIN"
+            exit 1
+          fi
+
+          echo "$GOBIN" >> $GITHUB_PATH
+          echo "Installed packwiz at $GOBIN/packwiz"
+
 
       - name: Prepare site folder
         run: |
           mkdir -p site
-          mv bin/packwiz site/packwiz
+          if [ -x bin/packwiz ]; then
+            mv bin/packwiz site/packwiz
+          else
+            echo "ERROR: bin/packwiz not found"
+            ls -la bin || true
+            exit 1
+          fi
+          chmod +x site/packwiz
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
           cp LICENSE site/LICENSE
           cp -r mods site/mods
           cp -r config site/config
+
 
       - name: Refresh packwiz index
         run: |
