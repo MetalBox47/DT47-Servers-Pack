@@ -20,13 +20,12 @@ jobs:
           go-version: stable
       - run: | 
           go install github.com/packwiz/packwiz@latest
-          go env
 
       - name: Prepare site folder
         run: |
-          goEnv=$(go env GOENV)
+          goBin=$(go env GOPATH)/bin
           mkdir -p site
-          mv $goEnv/bin/packwiz site/packwiz
+          mv $goBin/packwiz site/packwiz
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
