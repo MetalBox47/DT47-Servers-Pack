@@ -16,16 +16,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install packwiz
-        run: |
-          curl -L "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" -o packwiz.zip
-          unzip packwiz.zip
-          chmod +x packwiz
+      - name: Set up Go
+        uses: actions/setup-go@v6
+        with:
+          go-version: stable
+
+      - name: Install packwiz from source
+        env:
+          GOBIN: ${{ github.workspace }}/bin
+        run:
+          mkdir -p "$GOBIN"
+          go install github.com/packwiz/packwiz@latest
+          echo "${GOIBN}" >> $GITHUB_PATH
 
       - name: Prepare site folder
         run: |
           mkdir -p site
-          mv packwiz site
+          mv bin/packwiz site/packwiz
           cp pack.toml site/pack.toml
           cp index.toml site/index.toml
           cp options.txt site/options.txt
