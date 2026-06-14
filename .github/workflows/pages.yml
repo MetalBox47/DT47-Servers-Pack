@@ -20,14 +20,9 @@ jobs:
           go-version: stable
       - run: go install github.com/packwiz/packwiz@latest
 
-      - name: Set up Go
-        uses: actions/setup-go@v6
-        with:
-          go-version: stable
-
       - name: Prepare site folder
         run: |
-          goEnv = $(go env GOENV)
+          goEnv=$(go env GOENV)
           mkdir -p site
           mv $goEnv/bin/packwiz site/packwiz
           cp pack.toml site/pack.toml
