@@ -1,13 +1,13 @@
 name = "Carry On"
-filename = "carryon-neoforge-1.21.1-2.2.4.4.jar"
+filename = "carryon-neoforge-1.21.1-2.2.5.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "774bf57a199784c35e74f2d619d6001c87185a11"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/9u0z3vZD/carryon-neoforge-1.21.1-2.2.5.8.jar"
+hash-format = "sha512"
+hash = "90f0d807f8c3795ed2e5d90382c86dfaf71649a048a1e99849331c1fd9fba5b4377b452eec262b8a9d97e5f0c9499769a5c78c4c5e0db43802adff74ff5d08d3"
 
 [update]
-[update.curseforge]
-file-id = 7393892
-project-id = 274259
+[update.modrinth]
+mod-id = "joEfVgkn"
+version = "9u0z3vZD"

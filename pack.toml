@@ -1,13 +1,13 @@
-name = "DT47 Servers Pack"
+name = "DT47 Servers Pack - 1.21.1 Edition"
 author = "MetalBox47"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8995fe417ccdb053c2167a11b352ffac66bb0bf0bec016dbdbde423974a0fef7"
+hash = "e81ad46af88910e7d8262f56a9c85c649c0f763fd6a08a796059302c12ece2e8"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.233"
+neoforge = "21.1.234"
