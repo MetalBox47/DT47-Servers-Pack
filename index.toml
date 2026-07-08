@@ -173,6 +173,11 @@ hash = "c101051170fabf16a21a386e2cadf3f95ba7043dfd7ad72510bf2951ba76705c"
 metafile = true
 
 [[files]]
+file = "mods/charging-gadgets.pw.toml"
+hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -248,6 +253,11 @@ hash = "20a3425a5f63fd197443c283f72a8fd38e965963e7a3648f3faefcf4264a1ead"
 metafile = true
 
 [[files]]
+file = "mods/create-immersive-tacz-integration.pw.toml"
+hash = "7910a6d60620acce95fcce5d071d382b4b4fe5c1e2183f962620228771e378bc"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
@@ -275,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "e11f514b6feafef3f84b6391ca4239389a0c9d0c79334c44c5750707d2756a1d"
+metafile = true
+
+[[files]]
+file = "mods/curios-for-ammo-box.pw.toml"
+hash = "0d38f78b45258523d68ef8c9204fdd9578afea1241872fb224770977f3ec9cc2"
 metafile = true
 
 [[files]]
@@ -358,6 +373,11 @@ hash = "82d3cb6526cdda2996ea32e388a9754a92d332bea86d28508c3f1ac91106cd1f"
 metafile = true
 
 [[files]]
+file = "mods/eventslib.pw.toml"
+hash = "6db0f2b512ebfdbdb3da82ea344a939ed8312328b1453ad2e7d9c1f40ed8feba"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
@@ -380,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "3e79bdca5a0039b3458036a18b26460c7a5c58f4edca48e5d071053845c3be55"
+metafile = true
+
+[[files]]
+file = "mods/fargos-talismans.pw.toml"
+hash = "7660e825373817ec644da0fe55b265daa2fa501ca85d422066ab074851a1b229"
 metafile = true
 
 [[files]]
@@ -633,6 +658,11 @@ hash = "c9b452725e46b1c97c0c378297261415a7e4cf76382502289050f9ff04e710ae"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "86318bf80e2050e41da68bb6248c340c34e0b7afb574b8db7a0d9a5163fa3dd8"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "5b0c914358818bc2a1b36f0f8e63562cdce345888d4b3f9b0ef1d829f392c995"
 metafile = true
@@ -860,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "930370972be5cb4b3c37efdca7496d1cf07432bc2157605a6b0f1099afc7ffd0"
+metafile = true
+
+[[files]]
+file = "mods/taczaddon.pw.toml"
+hash = "3cddedb5d5ef78b15a8503d906b35674633cbb8aee1554e242ddd71e4d458e39"
 metafile = true
 
 [[files]]
