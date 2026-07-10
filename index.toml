@@ -9,8 +9,8 @@ file = "LICENSE"
 hash = "a0ee746064b06d09cab0768116ec265fd0d45261d4087c9ad2c698a07c7aac0e"
 
 [[files]]
-file = "config/appleskin-client.toml"
-hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+file = "config/quark-common.toml"
+hash = "076fb9af00daf7052b6d8f6230f16780b69402ec1b9cebcc532c8b59ee758cc1"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "6fd14a97896203dbb0588f23908fe6f43a09cc82eb6837cbb09d01c95a800b8f"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
