@@ -38,6 +38,11 @@ hash = "d92f9bea5613bc6fadf3f1b7a7786291541cc990756f7780e108d84e12ee37a2"
 metafile = true
 
 [[files]]
+file = "mods/apokinetics.pw.toml"
+hash = "b7389b6510d0612163b0d69e73a8298ccb786d84a3d7f01edc865ff367ee57c1"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "76a990b4e5895706ad4eadb50b2212ad10aedf146a353520b427162ad6341463"
 metafile = true
@@ -75,6 +80,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
 metafile = true
 
 [[files]]
@@ -409,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "3a9e5f30aa5ff3ed274bff9764cf9319959a7f1bc432a0cc701ef4e42b72a448"
+hash = "30653161e193f5911afe67c34d7523545184651a4c62c551c05d793fe4e44058"
 metafile = true
 
 [[files]]
@@ -513,6 +528,11 @@ hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "b13158a1f8daea08344c22f072a708fd658a958e06a24560e5a3016e69c16375"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
 metafile = true
@@ -525,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "71e6af72fded4b90a169412fceb43596df6e3de001f1c1a880f7e17c6990bd03"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "51efd91733a69b031ff8533683e5a94b9c25a8e270e40e6ce9f4b03121e03450"
 metafile = true
 
 [[files]]
@@ -679,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "533d0d21f46566d2e79d95eb8e173bc0da8b7ef201cab2e72faf68a956315984"
+hash = "d693aa8e82b4ce6e201b9bee3fa4440fbeb82a6076cf253883e155c1670c0335"
 metafile = true
 
 [[files]]
@@ -689,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5b0c914358818bc2a1b36f0f8e63562cdce345888d4b3f9b0ef1d829f392c995"
+hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
 metafile = true
 
 [[files]]
@@ -883,6 +908,11 @@ hash = "92ff88d6d763defa12eddfbfce2cf152c95e06148278f5292044f7a84a210c12"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b2bdd7558fd44a5d7f24d1005f27119814761cf78135acefeb1625157ecee859"
 metafile = true
@@ -933,6 +963,11 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "28e1627fe3182a3b4b2cbb2a31fcbf2269192dea1d4b576f78702d8fcc199d6f"
+metafile = true
+
+[[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "930370972be5cb4b3c37efdca7496d1cf07432bc2157605a6b0f1099afc7ffd0"
 metafile = true
@@ -954,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "c220266bd2dde43e44ecb103e2060641ca08e45a5a3bc94c41ea2a09bcdc16d3"
+hash = "5d1062dde3351682bbf80911822eeb30dcc7b446989f1cf37f599f2149b40bde"
 metafile = true
 
 [[files]]
@@ -1000,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "51464ce7cf3c73a962c99e5f74bb86c3e7b576e8fde6748af756f64251485654"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "3743063e776bf73b48fef24614a877e872b96ce0524dfc6342f0782ca5624937"
 metafile = true
 
 [[files]]
