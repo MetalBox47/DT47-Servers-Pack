@@ -683,11 +683,6 @@ hash = "533d0d21f46566d2e79d95eb8e173bc0da8b7ef201cab2e72faf68a956315984"
 metafile = true
 
 [[files]]
-file = "mods/modular-item-api.pw.toml"
-hash = "c9b452725e46b1c97c0c378297261415a7e4cf76382502289050f9ff04e710ae"
-metafile = true
-
-[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "86318bf80e2050e41da68bb6248c340c34e0b7afb574b8db7a0d9a5163fa3dd8"
 metafile = true
@@ -868,6 +863,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
@@ -920,6 +920,16 @@ metafile = true
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
 hash = "d5de10c5ef06468a30e1486b590c5dae2cd34b77ea42b43625c160e8262993b4"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
@@ -980,21 +990,6 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-archery.pw.toml"
-hash = "376ff1e2372a3c1ef2c53e767001fa76931c8beee1db108e27663d18cc6d847a"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-armory.pw.toml"
-hash = "7367ea87822e3d97c1c77fa8e6fba073f3578b840b8e3f56673b54de469dbe53"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-arsenal.pw.toml"
-hash = "d922c69f454fbd0c7d0fca7ccb3c0f85c6daddc046de29b4367751f2e52b49ea"
 metafile = true
 
 [[files]]
