@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "a0ee746064b06d09cab0768116ec265fd0d45261d4087c9ad2c698a07c7aac0e"
 
 [[files]]
+file = "config/ftbchunks-world.snbt"
+hash = "73a3d158615db7c81d28409e8d8a3a05c3fba3b9eb8664122c4e0ac73650dafa"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "076fb9af00daf7052b6d8f6230f16780b69402ec1b9cebcc532c8b59ee758cc1"
 
@@ -208,6 +212,11 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -315,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ab51239217fa8bcf6f5f03a10b9351a29baabe8d82dd619373efdea71ab4a261"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
 
 [[files]]
@@ -495,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/geore.pw.toml"
+hash = "af5b227b56eb612aa3d1975bde5827bf294c64407b375ff2d4d21749493b488d"
 metafile = true
 
 [[files]]
