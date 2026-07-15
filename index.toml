@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/apokinetics.pw.toml"
-hash = "b7389b6510d0612163b0d69e73a8298ccb786d84a3d7f01edc865ff367ee57c1"
+hash = "fe26e77af0279dda7abae534f1ad62eb204e063314df57b43cb325596e1e8cbe"
 metafile = true
 
 [[files]]
