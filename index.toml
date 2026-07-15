@@ -907,6 +907,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
 metafile = true
