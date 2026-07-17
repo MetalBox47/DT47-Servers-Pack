@@ -1,13 +1,13 @@
 name = "Modular Routers"
-filename = "modular-routers-13.2.5+mc1.21.1.jar"
+filename = "modular-routers-13.2.6+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/56DPxpnv/modular-routers-13.2.5%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/HvFNharn/modular-routers-13.2.6%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "86b00aeb92f8dbd7b0d0ad8a08748bd251f8ddde2a9a29df916f6d68a643263dd7f1a92b30c851c0a1ea1c1284edb41c2992eabe97a84a1f850fd1e7eefdf4c3"
+hash = "735855e543fdfe4e1168b6115d9f7f28b5479982f901e12ed15e0865e13cae905e6a9f5bfce5ca011a06745fb7ffc7bea23910a1deb5b40b836931bbf450cbc6"
 
 [update]
 [update.modrinth]
 mod-id = "EuTS81Z3"
-version = "56DPxpnv"
+version = "HvFNharn"
