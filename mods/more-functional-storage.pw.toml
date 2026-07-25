@@ -1,0 +1,13 @@
+name = "More Functional Storage"
+filename = "morefunctionalstorage-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TQJ3P8Ie/versions/7DtaDoDK/morefunctionalstorage-1.2.2.jar"
+hash-format = "sha512"
+hash = "a24b690918da34537aadbbcd35b515699fd91e75665f59ce273315c764cedcdac2535c5bdc763cc4a8d4008ec0b35cbaef8364c86ae7469ff1c8b86c4ec59a5b"
+
+[update]
+[update.modrinth]
+mod-id = "TQJ3P8Ie"
+version = "7DtaDoDK"

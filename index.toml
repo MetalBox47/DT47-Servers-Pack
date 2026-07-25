@@ -542,6 +542,11 @@ hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "1faf48b7c3887b3b9ccae6999c9ebb36e9424009b8d3be5c4275aa7c0f139bcd"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
@@ -779,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "253eb0796df9a8cd0214de3a6c32b7f6dc71fff5b861aa11086f275419ab046e"
+metafile = true
+
+[[files]]
+file = "mods/more-functional-storage.pw.toml"
+hash = "5260672e505876a9512d051d9021d172ebf5f5736469845e3b63391ceda556ed"
 metafile = true
 
 [[files]]
