@@ -17,6 +17,10 @@ file = "config/quark-common.toml"
 hash = "076fb9af00daf7052b6d8f6230f16780b69402ec1b9cebcc532c8b59ee758cc1"
 
 [[files]]
+file = "kubejs/server_scripts/create_sifting_ores.js"
+hash = "0e2b524a9ba3fee7250fc52defe1c704738a8842da523c51786315a48218111b"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
@@ -119,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "4162e8d9c74aa332a10e0b7c56fbabc72573020968c630b12a30225c46b0b2d7"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "c7a0dad47dcc9cdc0238647878725c68e0666060c22471bf7eb915d4643a9663"
 metafile = true
 
 [[files]]
@@ -302,6 +311,11 @@ hash = "f8c2334eb06dda015b6ea1f2a89ec90dc1a04b0e891d61d3b637efde4529c3e9"
 metafile = true
 
 [[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "33018abac3d5d96ba7774d9666a0f5d769974dd5c32487308f74744da3f1bcca"
 metafile = true
@@ -327,8 +341,33 @@ hash = "7910a6d60620acce95fcce5d071d382b4b4fe5c1e2183f962620228771e378bc"
 metafile = true
 
 [[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
+metafile = true
+
+[[files]]
+file = "mods/create-missiles.pw.toml"
+hash = "0994ba6ae9497af28b1e2c6e46d63c8fd8f0a081b374fdeb794249bae41f2b4d"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation-deposits.pw.toml"
+hash = "5b902bb84291e7c4f6693226725a5da1cabbc141b2c795cdd47b4a57f70d3b0e"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "464baff9adb918c7eb8fbfdb2efedeba5f1d3f6eebe87fc3fad5649e8e4ee18e"
 metafile = true
 
 [[files]]
@@ -557,11 +596,6 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
-file = "mods/geore.pw.toml"
-hash = "af5b227b56eb612aa3d1975bde5827bf294c64407b375ff2d4d21749493b488d"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
@@ -662,8 +696,28 @@ hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
 metafile = true
 
 [[files]]
+file = "mods/kjs-oritech.pw.toml"
+hash = "34b764dd53727697019c4435e57eb6715374ac4d6fa47ed90b8d6623e199b34d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "a947afda264a2eaaef57dc74999741da0433968a0e639730b063c3f3b676c41b"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create-automation.pw.toml"
+hash = "abcb3c23e474ccd0d627f3b4c28a8a9ea0fb08dc47ef751cb9ce01ebbe2493d5"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
@@ -722,6 +776,11 @@ hash = "461d58a0ddfb5b560ec3e2f222f8ee79e7bbe9e4457fadda5ada24af6e57f68b"
 metafile = true
 
 [[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "94ca178efd23ec80aed332c4762cdd832cffb0ebf4cdca4405e662e376836fcf"
 metafile = true
@@ -750,6 +809,10 @@ metafile = true
 file = "mods/mekanism_extra.pw.toml"
 hash = "adff0484ffea891ba8da3b92d2ec5c0a4bd53f9f83a903e54299e9718b81cf64"
 metafile = true
+
+[[files]]
+file = "mods/mekanismdieselgenerators-1.4.1.jar"
+hash = "4348651ddc34aeda7b84e5ec99ae49ff3a855918105471126744e5d1cbf46f39"
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
@@ -824,6 +887,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/observerlib.pw.toml"
+hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
+metafile = true
+
+[[files]]
+file = "mods/orecompatcreate.pw.toml"
+hash = "f184f8d73692b9a1f2cd5fd730e787f9b2d4d4e7fe81d678cf35183f9d12b585"
 metafile = true
 
 [[files]]
@@ -949,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
 hash = "e21a59e43272ca367cf6a125a70964f7be2088b5d10c6376f75d7a8c034b6f2c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
