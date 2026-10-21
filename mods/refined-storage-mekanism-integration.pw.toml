@@ -1,13 +1,13 @@
 name = "Refined Storage - Mekanism Integration"
-filename = "refinedstorage-mekanism-integration-1.1.1.jar"
+filename = "refinedstorage-mekanism-integration-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QHMDf0Sd/versions/m5pFB06e/refinedstorage-mekanism-integration-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/QHMDf0Sd/versions/tBhhaBqM/refinedstorage-mekanism-integration-1.2.0.jar"
 hash-format = "sha512"
-hash = "94db16610bed3015cafb4fe28f3a2a0e2d2ed354dae2fb269f561a0046f96cbc4314b5095bbadeb615f288d3e1aa25f3722cc24dc86b2764e44408b9c0439d6a"
+hash = "210755a20e9c9a31c2f6ee44e54817e40dacea66ec97dbacc97ee3424f59e5c3f7462680d315166e684dafae75ddeb59516806f1a3580ef074dda3cb0a2eb1ae"
 
 [update]
 [update.modrinth]
 mod-id = "QHMDf0Sd"
-version = "m5pFB06e"
+version = "tBhhaBqM"
