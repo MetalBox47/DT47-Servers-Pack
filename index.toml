@@ -1200,11 +1200,6 @@ hash = "65e16dd50700e759703a04554e5addf30c46edc1f9b1eaf03a40dc1675076a10"
 metafile = true
 
 [[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "bbc4f79f62d0c9fc9d006ef25251b0f5687a8921f46a0799fa7e959c9bdd36c7"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
