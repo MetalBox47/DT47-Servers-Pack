@@ -1,0 +1,13 @@
+name = "RSInfinityBooster"
+filename = "rsinfinitybooster-neoforge-2.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sjzdj2cy/versions/NBulw2vg/rsinfinitybooster-neoforge-2.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "1f2a16a3cba4b2964f0ba696dddedcb45f775597a02b1d33175be965f7c3ae862db234fad4a6e634cebe7ec0069a767201b06c6b7fd9927bed583346bca33bc1"
+
+[update]
+[update.modrinth]
+mod-id = "Sjzdj2cy"
+version = "NBulw2vg"

@@ -351,11 +351,6 @@ hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
 metafile = true
 
 [[files]]
-file = "mods/create-missiles.pw.toml"
-hash = "0994ba6ae9497af28b1e2c6e46d63c8fd8f0a081b374fdeb794249bae41f2b4d"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation-deposits.pw.toml"
 hash = "5b902bb84291e7c4f6693226725a5da1cabbc141b2c795cdd47b4a57f70d3b0e"
 metafile = true
@@ -1030,6 +1025,11 @@ hash = "b42b5799945bfb6aed214e32ccb4bbdb60fc86ec05cfa3178d782dfff27cbed1"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
 metafile = true
@@ -1067,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "073fc8dc9d0611a638efa8b4e32e1f648b60c5d9857aee35fb9d6069ec19396e"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "e0e7ad88341a1f78844a71154d965dc37b97e8be434d89a9f61945ef7d2412cf"
 metafile = true
 
 [[files]]
