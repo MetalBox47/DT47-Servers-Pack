@@ -17,10 +17,6 @@ file = "config/quark-common.toml"
 hash = "076fb9af00daf7052b6d8f6230f16780b69402ec1b9cebcc532c8b59ee758cc1"
 
 [[files]]
-file = "kubejs/server_scripts/create_sifting_ores.js"
-hash = "0e2b524a9ba3fee7250fc52defe1c704738a8842da523c51786315a48218111b"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "2a46cd68d765cd40d560f9d5934c313cd394a317d6c68eee4476ab10b5a75851"
 metafile = true
@@ -313,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "f8c2334eb06dda015b6ea1f2a89ec90dc1a04b0e891d61d3b637efde4529c3e9"
-metafile = true
-
-[[files]]
-file = "mods/create-bionics.pw.toml"
-hash = "7b963466f1e46dd73e3bb058b8951b223f180a2a7e8cd856882de13f99715db1"
 metafile = true
 
 [[files]]
