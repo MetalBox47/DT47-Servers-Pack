@@ -1,0 +1,13 @@
+name = "[TaCZ] Timeless and Classics Zero"
+filename = "tacz-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SzzJttH8/versions/O2Pfsh6w/tacz-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "8f54d0b620040cd4451329ee62fa2b2ede153220d85a8722ef9ffe6e31b9aaeff9f3a55a9bc92df29f1769ea751a50d36110139eacc809a84d5ca4186fdcc461"
+
+[update]
+[update.modrinth]
+mod-id = "SzzJttH8"
+version = "O2Pfsh6w"
